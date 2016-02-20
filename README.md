@@ -6,7 +6,7 @@ Vereinsstatuten des Chaos Computer Club Schweiz.
 
 Es gibt zwei Möglichkeiten, eine Statutenänderung zu beantragen:
 
-- Ein *Issue* eröffnen mit einer generellen Diskussion.
-- Ein *Pull Request* eröffnen mit einer konkreten Formulierung.
+- Ein [Issue](https://github.com/ccc-ch/statuten/issues) eröffnen mit einer generellen Diskussion.
+- Ein [Pull Request](https://github.com/ccc-ch/statuten/pulls) eröffnen mit einer konkreten Formulierung.
 
 Pull Requests werden an der nächsten GV als Änderungsantrag traktandiert.
