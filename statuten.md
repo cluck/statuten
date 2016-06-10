@@ -59,14 +59,17 @@ Organe des Vereins sind:
 ## 7 Die Chaosversammlung
 
 Die ordentliche Chaosversammlung findet jährlich im ersten Quartal des
-Geschäftsjahres statt. Dieses entspricht dem Kalenderjahr. Eine
-ausserordentliche Chaosversammlung kann vom Vorstand oder von einem Fünftel der
+von Juni bis Mai laufenden Geschäftsjahres statt. So die Veranstaltung
+«Chaos Singularity (cosin)» organisiert wird, findet sie während dieser statt.
+
+Eine ausserordentliche Chaosversammlung kann vom Vorstand oder von einem Fünftel der
 Mitglieder einberufen werden. Die Organisation obliegt dem Vorstand.
 
 Jedes Mitglied stellt zwei Delegierte mit je einer Stimme.
 
 Die Einladung muss den Mitgliedern spätestens 42 Tage vor der Chaosversammlung
-vorliegen.
+vorliegen; der CfP zur «Chaos Singularity (cosin)» ersetzt eine separate
+Einladung zur Chaosversammlung.
 
 Die Chaosversammlung kann elektronische Verfahren der Beschlussfassung der
 physischen Versammlung gleichsetzen. Den Delegierten stehen zur Stimmabgabe
