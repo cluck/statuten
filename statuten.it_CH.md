@@ -165,8 +165,8 @@ von Juni bis Mai laufenden Geschäftsjahres statt. So die Veranstaltung
 «Chaos Singularity (CoSin)» organisiert wird, findet sie während dieser statt.
  -->
 
-La chiusura dell'anno contabile cade tra maggio a giugno. La riunione del caos
-si tiene annualmente nel primo quartale di tale anno fiscale. Qualora in tale periodo
+La chiusura dell'anno contabile cade tra maggio e giugno. La riunione del caos
+si tiene annualmente nel primo quartale di tale anno contabile. Qualora in tale periodo
 dovesse svolgersi il raduno «Chaos Singularity (CoSin)» la riunione del caos si svolgerá
 come parte di quest'ultimo.
 
