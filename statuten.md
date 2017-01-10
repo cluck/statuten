@@ -68,8 +68,8 @@ Mitglieder einberufen werden. Die Organisation obliegt dem Vorstand.
 Jedes Mitglied stellt zwei Delegierte mit je einer Stimme.
 
 Die Einladung muss den Mitgliedern spätestens 42 Tage vor der Chaosversammlung
-vorliegen; der CfP zur «Chaos Singularity (CoSin)» gilt als 
-Einladung zur Chaosversammlung.
+vorliegen; der Call for Participation (CfP) zur «Chaos Singularity (CoSin)»
+gilt als Einladung zur Chaosversammlung.
 
 Die Chaosversammlung kann elektronische Verfahren der Beschlussfassung der
 physischen Versammlung gleichsetzen. Den Delegierten stehen zur Stimmabgabe
