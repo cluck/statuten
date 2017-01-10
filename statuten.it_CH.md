@@ -1,3 +1,5 @@
+<!--  (è, é, ò, à, ù) -->
+
 <!--
 # Statuten
  -->
@@ -6,7 +8,9 @@
 <!--
 Statuten des CCC CH per 27.10.2012
  -->
-Traduzione degli statuti del CCC-CH del 27 Settembre 2012
+Traduzione in lingua italiana degli statuti originali in lingua tedesca del CCC-CH del 27 Settembre 2012.
+
+Per fini giuridici fanno fede esclusivamente gli statuti originali in lingua tedesca.
 
 <!--
 ## 1 Name und Sitz des Verbands
@@ -19,9 +23,9 @@ Der Verband ist ein Verein gemäss ZGB Art 60ff. und trägt die Bezeichnung
 Sitz ist in Bern.
  -->
 
-A norma dell’art. 60 e segg. del Codice civile è costituita come associazione la lega
-"Chaos Computer Club Schweiz". L'acronimo CCC-CH é l'abbreviazione ufficiale della lega.
-L'associazione ha sede a Berna.
+É costituita a norma dell’art. 60 e seguenti del Codice civile Svizzero come associazione
+la lega *Chaos Computer Club Svizzera*. L'acronimo ufficiale dell'associazione é l'abbreviazione
+CCC-CH. L'associazione ha sede a Berna.
 
 <!--
 ## 2 Zweck und Aufgaben des Verbands
@@ -36,7 +40,7 @@ einsetzen.
  -->
 
 La lega promuove l'interscambio di esperienza tra hacker in Svizzera. I
-soci possono incaricare la lega di rappresentare i loro interessi nel
+soci possono incaricare la lega di rappresentare i loro interessi in
 pubblico e verso le istanze politiche. Inoltre la lega svolge
 attivitá didattiche per promuovere conoscenze techniche e scientifiche.
 
@@ -44,7 +48,7 @@ attivitá didattiche per promuovere conoscenze techniche e scientifiche.
 Der Verband ist parteipolitisch und konfessionell neutral.
  -->
 
-La lega non discrimina a causa di affiliazione politica o confessionale.
+La lega non discrimina per affiliazione politica o confessionale.
 
 
 <!--
@@ -62,7 +66,7 @@ Mitglied im Verband kann jede Gruppierung in der Schweiz werden, die die Ziele
 und Aufgaben des Verbands unterstützt.
  -->
 
-Sono ammessi alla lega tutte le associazioni e le persone giuridiche che sostengono lo scopo
+Sono ammessi alla lega tutti i gruppi che sostengono lo scopo
 e i compiti della lega.
 
 <!--
@@ -72,7 +76,10 @@ e i compiti della lega.
 L'assemblea sociale decide sull'ammissione di nuovi soci.
 
 
+<!--
 ### 3.2 Beendigung der Mitgliedschaft
+ -->
+### 3.2 Cessazione dell'appartenenza alla lega
 
 <!--
 Die Kündigung der Mitgliedschaft kann jederzeit unter Einhaltung einer Frist
@@ -91,7 +98,7 @@ werden nicht erstattet.
  -->
 
 L'assemblea sociale delibera sull'esclusione di soci che violano in modo oltraggioso
-lo scopo della lega. Contributi già versati non saranno rimborsati.
+lo scopo della lega. Contributi sociali già versati non saranno rimborsati.
 
 <!--
 ## 4 Finanzierung
@@ -110,7 +117,7 @@ Es haftet ausschliesslich das Vereinsvermögen.
  -->
 
 Per i debiti dell’associazione risponde solo il patrimonio dell’associazione.
-[È esclusa la responsabilità personale dei soci.]
+È esclusa la responsabilità personale dei soci.
 
 
 <!--
@@ -157,8 +164,9 @@ Die ordentliche Chaosversammlung findet jährlich im ersten Quartal des
 von Juni bis Mai laufenden Geschäftsjahres statt. So die Veranstaltung
 «Chaos Singularity (CoSin)» organisiert wird, findet sie während dieser statt.
  -->
-La chiusura dell'anno fiscale si svolge tra maggio a giugno. La riunione del caos
-avviene annualmente nel primo quartale di tale anno fiscale. Qualora in quel periodo
+
+La chiusura dell'anno contabile cade tra maggio a giugno. La riunione del caos
+si tiene annualmente nel primo quartale di tale anno fiscale. Qualora in tale periodo
 dovesse svolgersi il raduno «Chaos Singularity (CoSin)» la riunione del caos si svolgerá
 come parte di quest'ultimo.
 
@@ -167,8 +175,8 @@ Eine ausserordentliche Chaosversammlung kann vom Vorstand oder von einem Fünfte
 Mitglieder einberufen werden. Die Organisation obliegt dem Vorstand.
  -->
 
-Un quinto dei soci o la direzione possono indire un'assemblea sociale straordinaria.
-La direzione é tenuta ad organizzarla.
+Un quinto dei soci o la direzione possono indire una riunione del caos straordinaria.
+La direzione é tenuta ad organizzare l'assemblea.
 
 <!--
 Jedes Mitglied stellt zwei Delegierte mit je einer Stimme.
@@ -182,9 +190,8 @@ vorliegen; der CfP zur «Chaos Singularity (CoSin)» gilt als
 Einladung zur Chaosversammlung.
  -->
 
-L'invito viene inoltrato almeno 42 giorni in anticipo. La chiamata per contributi
-(call for papers) per il raduno «Chaos Singularity (CoSin)» equivale all'invito
-all'assemblea sociale.
+L'invito viene presentato almeno 42 giorni in anticipo. La chiamata per presentazioni
+del raduno «Chaos Singularity (CoSin)» equivale all'invito alla riunione del caos.
 
 <!--
 Die Chaosversammlung kann elektronische Verfahren der Beschlussfassung der
@@ -192,8 +199,8 @@ physischen Versammlung gleichsetzen. Den Delegierten stehen zur Stimmabgabe
 mindestens 23 Tage zur Verfügung.
  -->
 
-L'assemblea sociale puó definire metodi per il voto elettronico come equivalenti
-all'assemblea stessa. La votazione elettronica dovrá rimanere aperta per almeno 23 giorni.
+La riunione del caos può definire metodi per il voto elettronico come equivalenti
+all'assemblea stessa. La votazione elettronica dovrà rimanere aperta per almeno 23 giorni.
 
 <!--
 Die Chaosversammlung beschliesst mit einfacher Mehrheit der abgegebenen
@@ -206,7 +213,7 @@ Stimmen:
 - Wahl der Revisionsstelle
  -->
 
-Il raduno del caos decide con voto di maggioritá semplice su:
+La riunione del caos decide con voto di maggioranza semplice su:
 
 - elezione del consiglio di direzione e l'approvazione dei conti
 - l'approvazione del budget
@@ -224,12 +231,12 @@ Die Chaosversammlung beschliesst mit zwei Dritteln der abgebenen Stimmen:
 - Auflösung des Vereins
  -->
 
-Il raduno del caos decide con voto di maggioritä semplice con due terzi di voti a favore su:
+La riunione del caos decide con voto di due terzi a favore su:
 
-- Nuovi statuti
-- La dimissione del consiglio di direzione
-- L'esclusione di soci
-- Lo scioglimento della lega
+- nuovi statuti dell'associazione
+- la dimissione del consiglio di direzione
+- l'esclusione di soci
+- lo scioglimento della lega
 
 
 <!--
@@ -243,9 +250,12 @@ Geschäfte. Er besteht aus mindestens fünf Personen, die alle einem Mitglied,
 aber nicht unbedingt demselben, angehören. Er konstituiert sich selbst.
  -->
 
-Il consiglio di direzione rappresenta la lega all'esterno e gestische le attivitä in corso.
-Il consiglio di direzione consiste da almeno cinque persone, e sono tenuti ad essere
-pure membri di uno dei soci della lega. [Sbagliato: il consiglio di direzione si costituisce da solo.]
+Il consiglio di direzione rappresenta la lega all'esterno e gestisce le attività in corso.
+
+Esso consiste da almeno cinque persone, e ciascuna persona é tenuta ad essere
+anche membro di un socio della lega.
+
+Il consiglio di direzione si costituisce da solo.
 
 
 <!--
@@ -259,8 +269,10 @@ Vorstand angehören. Sie prüft die Rechnungslegung und berichtet der
 ordentlichen Chaosversammlung.
  -->
 
-L'ufficio di revisione consiste di almeno due persone che controllano la contabilitä e
-riferiscono all'assemblea sociale. I revisori non sono membri del consiglio di direzione.
+L'ufficio di revisione consiste di almeno due persone che controllano la contabilità e
+riferiscono all'assemblea sociale ordinaria.
+
+I revisori non sono membri del consiglio di direzione.
 
 <!--
 ## 10 Auflösung des Verbands
@@ -273,8 +285,8 @@ Die Liquidation erfolgt durch den Vorstand. Das Vereinsvermögen fällt an eine
 Institution mit vergleichbaren Zielen.
  -->
 
-Il consiglio di direzione esegue la liquidazione [obvious]. Con lo scioglimento
-dell’associazione, il patrimonio dell’associazione va a un’istituzione che persegue
+Il consiglio di direzione esegue la liquidazione. Con lo scioglimento
+dell’associazione, il patrimonio dell’associazione va ad un’istituzione che persegue
 la stessa o una simile finalità.
 
 <!--
