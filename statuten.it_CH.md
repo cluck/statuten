@@ -3,7 +3,7 @@
 <!--
 # Statuten
  -->
-# Statuti
+# Statuti (DRAFT)
 
 <!--
 Statuten des CCC CH per 27.10.2012
