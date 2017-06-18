@@ -42,7 +42,7 @@ Per i debiti dell’associazione risponde solo il patrimonio dell’associazione
 ## 5 contributi
 
 I contributi sociali riflettono il numero degli hacker rappresentati.
-Questi sono dovuti annualmente ed in anticipo.
+Questi sono dovuti in anticipo.
 
 ## 6 organi
 

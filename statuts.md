@@ -41,7 +41,7 @@ Responsable aux dettes de l’association est seulement la fortune de l’associ
 ## 5 contributions
 
 La cotisation est calculée du nombre des hackers représentés.
-Elle est due annuellement et en avance.
+Elle est due en avance.
 
 ## 6 organes
 
