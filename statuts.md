@@ -71,6 +71,7 @@ Le vote électronique restera ouvert pendant 23 jours au moins.
 L'assemblée du chaos décide avec une simple majorité des votes:
 
 - l’élection du comité
+- l’approbation des comptes
 - l’approbation du budget
 - la fixation des cotisations
 - l’admission des nouveaux membres
