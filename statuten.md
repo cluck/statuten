@@ -26,6 +26,8 @@ und Aufgaben des Verbands unterstützt.
 
 Über die Aufnahme von Mitgliedern verfügt die Chaosversammlung.
 
+Die Mitgliedschaft besteht vorerst auch wenn die Mitgliederbeiträge noch nicht überwiesen wurden.
+
 ### 3.2 Beendigung der Mitgliedschaft
 
 Die Kündigung der Mitgliedschaft kann jederzeit unter Einhaltung einer Frist
