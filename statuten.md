@@ -1,6 +1,6 @@
 # Statuten
 
-Statuten des CCC CH per 27.10.2012
+Statuten des CCC CH per 2017-09-16
 
 ## 1 Name und Sitz des Verbands
 
