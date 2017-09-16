@@ -46,7 +46,7 @@ Es haftet ausschliesslich das Vereinsvermögen.
 ## 5 Beiträge
 
 Der Mitgliederbeitrag berechnet sich nach der Anzahl vertretener Hacker. Er ist
-jährlich im Voraus fällig.
+im Voraus fällig.
 
 ## 6 Organe
 
