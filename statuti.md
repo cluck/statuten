@@ -72,6 +72,7 @@ La votazione elettronica dovrà rimanere aperta per almeno 23 giorni.
 La riunione del caos decide con voto di maggioranza semplice:
 
 - l’elezione del comitato
+- l’approvazione dei conti
 - l'approvazione del budget
 - l'ammontare dei contributi sociali
 - l'ammissione di nuovi soci

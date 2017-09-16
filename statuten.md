@@ -78,7 +78,8 @@ mindestens 23 Tage zur Verfügung.
 Die Chaosversammlung beschliesst mit einfacher Mehrheit der abgegebenen
 Stimmen:
 
-- Wahl und Decharge des Vorstands
+- Annahme der Rechnung und Décharge des Vorstands
+- Wahl des Vorstands
 - Bewilligung des Budgets
 - Festsetzung des Mitgliederbeitrags
 - Aufnahme von neuen Mitgliedern
