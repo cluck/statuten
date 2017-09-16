@@ -24,6 +24,8 @@ Sono ammessi a diventare membri tutti i gruppi in Svizzera che sostengono lo sco
 
 L'assemblea del caos decide sull'ammissione di nuovi soci.
 
+L’adesione ha effetto immediato, anche quando i contributi sociali rimangono dovuti.
+
 ### 3.2 cessazione dell'appartenenza
 
 I soci possono cessare l'appartenenza in ogni moment con preavviso di 23 giorni.

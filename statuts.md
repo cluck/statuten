@@ -23,6 +23,8 @@ Ils sont admis à devenir membres tous les groupes en Suisse qui patronnent les 
 
 L'admission des membres est décidé par l'assemblée du chaos.
 
+L'adhésion prend effet immédiatement, même si les cotisations ne sont pas payées.
+
 ### 3.2 annulation de l'affiliation
 
 Le membres peuvent cesser l’adhésion toujours avec un préavis de 23 jours.
