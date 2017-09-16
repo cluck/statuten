@@ -99,8 +99,8 @@ aber nicht unbedingt demselben, angehören. Er konstituiert sich selbst.
 
 ## 9 Revisionsstelle
 
-Die Revisionsstelle besteht aus mindestens zwei Personen, die nicht dem
-Vorstand angehören. Sie prüft die Rechnungslegung und berichtet der
+Die Revisionsstelle besteht aus mindestens zwei Personen. Ihre Mitglieder gehören nicht dem
+Vorstand an. Die Revisionsstelle prüft die Rechnungslegung und berichtet der
 ordentlichen Chaosversammlung.
 
 ## 10 Auflösung des Verbands
