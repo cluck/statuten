@@ -26,6 +26,8 @@ und Aufgaben des Verbands unterstützt.
 
 Über die Aufnahme von Mitgliedern verfügt die Chaosversammlung.
 
+Die Mitgliedschaft besteht vorerst auch wenn die Mitgliederbeiträge noch nicht überwiesen wurden.
+
 ### 3.2 Beendigung der Mitgliedschaft
 
 Die Kündigung der Mitgliedschaft kann jederzeit unter Einhaltung einer Frist
@@ -46,7 +48,7 @@ Es haftet ausschliesslich das Vereinsvermögen.
 ## 5 Beiträge
 
 Der Mitgliederbeitrag berechnet sich nach der Anzahl vertretener Hacker. Er ist
-jährlich im Voraus fällig.
+im Voraus fällig.
 
 ## 6 Organe
 
@@ -78,7 +80,8 @@ mindestens 23 Tage zur Verfügung.
 Die Chaosversammlung beschliesst mit einfacher Mehrheit der abgegebenen
 Stimmen:
 
-- Wahl und Decharge des Vorstands
+- Annahme der Rechnung und Décharge des Vorstands
+- Wahl des Vorstands
 - Bewilligung des Budgets
 - Festsetzung des Mitgliederbeitrags
 - Aufnahme von neuen Mitgliedern
@@ -99,8 +102,8 @@ aber nicht unbedingt demselben, angehören. Er konstituiert sich selbst.
 
 ## 9 Revisionsstelle
 
-Die Revisionsstelle besteht aus mindestens zwei Personen, die nicht dem
-Vorstand angehören. Sie prüft die Rechnungslegung und berichtet der
+Die Revisionsstelle besteht aus mindestens zwei Personen. Ihre Mitglieder gehören nicht dem
+Vorstand an. Die Revisionsstelle prüft die Rechnungslegung und berichtet der
 ordentlichen Chaosversammlung.
 
 ## 10 Auflösung des Verbands
