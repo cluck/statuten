@@ -1,12 +1,13 @@
 # Statuten
 
-Statuten des CCC CH per 27.10.2012
+Statuten des CCC CH per 2017-09-16
 
 ## 1 Name und Sitz des Verbands
 
 Der Verband ist ein Verein gemäss ZGB Art 60ff. und trägt die Bezeichnung
-„Chaos Computer Club Schweiz.“ Das zu verwendende Vereinskürzel ist CCC-CH. Der
-Sitz ist in Bern.
+„Chaos Computer Club Schweiz.“ Das zu verwendende Vereinskürzel ist CCC-CH.
+
+Der Sitz ist in Bern.
 
 ## 2 Zweck und Aufgaben des Verbands
 
@@ -25,6 +26,8 @@ Mitglied im Verband kann jede Gruppierung in der Schweiz werden, die die Ziele
 und Aufgaben des Verbands unterstützt.
 
 Über die Aufnahme von Mitgliedern verfügt die Chaosversammlung.
+
+Die Mitgliedschaft besteht vorerst auch wenn die Mitgliederbeiträge noch nicht überwiesen wurden.
 
 ### 3.2 Beendigung der Mitgliedschaft
 
@@ -46,7 +49,7 @@ Es haftet ausschliesslich das Vereinsvermögen.
 ## 5 Beiträge
 
 Der Mitgliederbeitrag berechnet sich nach der Anzahl vertretener Hacker. Er ist
-jährlich im Voraus fällig.
+im Voraus fällig.
 
 ## 6 Organe
 
@@ -68,8 +71,8 @@ Mitglieder einberufen werden. Die Organisation obliegt dem Vorstand.
 Jedes Mitglied stellt zwei Delegierte mit je einer Stimme.
 
 Die Einladung muss den Mitgliedern spätestens 42 Tage vor der Chaosversammlung
-vorliegen; der CfP zur «Chaos Singularity (CoSin)» gilt als 
-Einladung zur Chaosversammlung.
+vorliegen; der Call for Participation (CfP) zur «Chaos Singularity (CoSin)»
+gilt als Einladung zur Chaosversammlung.
 
 Die Chaosversammlung kann elektronische Verfahren der Beschlussfassung der
 physischen Versammlung gleichsetzen. Den Delegierten stehen zur Stimmabgabe
@@ -78,7 +81,8 @@ mindestens 23 Tage zur Verfügung.
 Die Chaosversammlung beschliesst mit einfacher Mehrheit der abgegebenen
 Stimmen:
 
-- Wahl und Decharge des Vorstands
+- Annahme der Rechnung und Décharge des Vorstands
+- Wahl des Vorstands
 - Bewilligung des Budgets
 - Festsetzung des Mitgliederbeitrags
 - Aufnahme von neuen Mitgliedern
@@ -99,16 +103,12 @@ aber nicht unbedingt demselben, angehören. Er konstituiert sich selbst.
 
 ## 9 Revisionsstelle
 
-Die Revisionsstelle besteht aus mindestens zwei Personen, die nicht dem
-Vorstand angehören. Sie prüft die Rechnungslegung und berichtet der
+Die Revisionsstelle besteht aus mindestens zwei Personen. Ihre Mitglieder gehören nicht dem
+Vorstand an. Die Revisionsstelle prüft die Rechnungslegung und berichtet der
 ordentlichen Chaosversammlung.
 
 ## 10 Auflösung des Verbands
 
 Die Liquidation erfolgt durch den Vorstand. Das Vereinsvermögen fällt an eine
 Institution mit vergleichbaren Zielen.
-
-## Übergangsbestimmungen
-
-Das Geschäftsjahr 2016 wird bis Mai 2017 verlängert.
 
