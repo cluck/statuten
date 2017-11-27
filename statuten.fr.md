@@ -4,7 +4,7 @@ Statuts du CCC CH du 26 décembre 2017.
 
 ## 1 Nom et siège principal de l'association
 
-L'association conforme aux articles 60 et suivantes du Code civil suisse et s'appelle Chaos Computer Club Suisse. L’acronyme á utiliser est CCC-CH.
+L'association conforme aux articles 60 et suivantes du Code civil suisse et s'appelle Chaos Computer Club Suisse. Le sigle de l'association à utiliser est CCC-CH.
 
 Le siège principal est à Berne.
 
