@@ -52,9 +52,9 @@ I contributi sociali riflettono il numero degli hacker rappresentati. Questi son
 
 Gli organi dell’associazione sono:
 
- - la riunione del caos (l'assemblea sociale)
- - il comitato (la direzione)
- - l'ufficio di revisione
+- la riunione del caos (l'assemblea sociale)
+- il comitato (la direzione)
+- l'ufficio di revisione
 
 ## 7 La riunione del caos
 
@@ -72,19 +72,19 @@ La riunione del caos può far equivalere metodi di voto elettronico alla riunion
 
 La riunione del caos decide con la maggioranza semplice dei voti espressi su:
 
-1.	l’approvazione dei conti e la décharge del comitato
-2.	l’elezione del comitato
-3.	l'approvazione del budget
-4. l'ammontare dei contributi sociali
-5.	l'ammissione di nuovi soci
-6.	l'ufficio di revisione
+- l’approvazione dei conti e la décharge del comitato
+- l’elezione del comitato
+- l'approvazione del budget
+- l'ammontare dei contributi sociali
+- l'ammissione di nuovi soci
+- l'ufficio di revisione
  
 La riunione del caos decide con la maggioranza di due terzi dei voti espressi su:
 
-1.	nuovi statuti dell'associazione
-2.	la dimissione del comitato
-3.	l'esclusione di soci
-4.	lo scioglimento dell’associazione
+- nuovi statuti dell'associazione
+- la dimissione del comitato
+- l'esclusione di soci
+- lo scioglimento dell’associazione
 
 ## 8 Il comitato
 
