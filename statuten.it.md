@@ -62,7 +62,7 @@ La chiusura dell'anno contabile cade tra maggio e giugno e la riunione ordinaria
 
 Qualora si tenga il raduno «Chaos Singularity (CoSin)», essa si svolgerà nel contempo.
 
-Un quinto dei soci o il comitato possono indire una riunione del caos straordinaria. La direzione è tenuta ad organizzare l'assemblea.
+Un quinto dei soci o il comitato possono indire una riunione del caos straordinaria. Il comitato è tenuto ad organizzare l'assemblea.
 
 Ogni socio invia due delegati con un voto ciascuno.
 
@@ -96,4 +96,4 @@ L'ufficio di revisione consiste di almeno due persone. I costituenti non fanno p
 
 ## 10 Scioglimento dell'associazione
 
-Il consiglio di direzione esegue la liquidazione. Gli attivi dell’associazione vanno ad un’istituzione con finalità simile.
+Il comitato esegue la liquidazione. Gli attivi dell’associazione vanno ad un’istituzione con finalità simile.

@@ -49,7 +49,7 @@ La cotisation est calculée du nombre des hackers représentés. Elle est due en
 Les organes de l'association sont:
 
 - l'assemblée du chaos (l’assemblée générale)
-- le comité directeur (la direction)
+- le comité (la direction)
 - le bureau de révision
 
 ## 7 L'assemblée du chaos
@@ -66,8 +66,8 @@ FIXME L’assemblée du chaos peut définir des méthodes de vote électronique 
 
 L'assemblée du chaos décide avec une simple majorité des votes exprimés:
 
-- l’approbation des comptes et la décharche du comité directeur
-- l’élection du comité directeur
+- l’approbation des comptes et la décharche du comité
+- l’élection du comité
 - l’approbation du budget
 - la fixation des cotisations
 - l’admission des nouveaux membres
@@ -76,19 +76,19 @@ L'assemblée du chaos décide avec une simple majorité des votes exprimés:
 La réunion du chaos résout avec deux tiers des voix exprimés sur:
 
 - la modifications des statuts
-- la destitution du comité directeur
+- la destitution du comité
 - l’exclusion de membres
 - la dissolution de l'association
 
-## 8 Le comité directeur
+## 8 Le comité
 
-Le comité directeur représente l'association externe et gère les activités en cours.
+Le comité représente l'association externe et gère les activités en cours.
 
 Il se compose au moins du cinq personnes, qui sont également membres du membres de l'association, pas forcemmont tous de la même. Le comitat se constitue soi-même.
 
 ## 9 Bureau de révision
 
-Le bureau de révision se compose d’au moins du deux commissaires aux comptes. Ils ne font pas partie du comité directeur. Ils vérifient les comptes et font avis à l'assemblée ordinaire du chaos.
+Le bureau de révision se compose d’au moins du deux commissaires aux comptes. Ils ne font pas partie du comité. Ils vérifient les comptes et font avis à l'assemblée ordinaire du chaos.
 
 ## 10 Dissolution de l'association
 
