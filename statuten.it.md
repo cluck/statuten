@@ -72,7 +72,7 @@ La riunione del caos può far equivalere metodi di voto elettronico alla riunion
 
 La riunione del caos decide con la maggioranza semplice dei voti espressi su:
 
-- l’approvazione dei conti e la décharge del comitato
+- l’approvazione dei conti e dare discarico al comitato
 - l’elezione del comitato
 - l'approvazione del budget
 - l'ammontare dei contributi sociali
