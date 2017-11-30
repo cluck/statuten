@@ -2,9 +2,9 @@
 
 Statuti del CCC-CH del 26 dicembre 2017
 
-## 1 Designazione, acronimo e sede della lega
+## 1 Designazione, sigla e sede della lega
 
-L’associazione è costituita a norma dell’art. 60 e seguenti del Codice civile Svizzero e porta il nome Chaos Computer Club Svizzera. L'acronimo da usare è CCC-CH.
+L’associazione è costituita a norma dell’art. 60 e seguenti del Codice civile Svizzero e porta il nome Caos Computer Club Svizzera. La sigla da usare è CCC-CH.
 
 La sede è a Berna.
 
