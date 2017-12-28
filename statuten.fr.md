@@ -1,95 +1,96 @@
 # Statuts
 
-Statuts du CCC CH du 26 décembre 2017.
+Statuts du CCC-CH du 29 décembre 2017 (corréspondent aux statuts en allemand du 16 Septembre 2017).
 
-## 1 Nom et siège principal de l'association
+## 1 Nom et siège de l'association
 
-L'association conforme aux articles 60 et suivantes du Code civil suisse et s'appelle Chaos Computer Club Suisse. Le sigle de l'association à utiliser est CCC-CH.
+L'association est une société selon les articles 60 et suivants du Code civil suisse et s'appelle „Chaos Computer Club Suisse.“ L'abréviation d'usage est CCC-CH.
 
-Le siège principal est à Berne.
+Le siège est à Berne.
 
-## 2 Objectives et devoirs de l'association
+## 2 But et tâches de l'association
 
-L'association facilites l'échange d'expériences entre les hackers de la Suisse.
+L'association favorise l'échange d'expériences entre les hackers en Suisse.
 
-L'association peut représenter les intérêts des hackers aux instances politique et au public. En plus elle se peut engager pour l'éducation technique et scientifique.
+Elle peut représenter leurs intérêts auprès du public et des instances politiques. De plus, elle peut promouvoir l'éducation technique et scientifique.
 
-L'association est politiquement et confessionellement neutre.
+L'association est neutre sur les plans politique et confessionnel. 
 
-## 3 Adhésion
+## 3 Affiliation
 
 ### 3.1 Admission
 
-Ils sont admis à devenir membres tous les groupes en Suisse qui patronnent les objectives et les devoirs de l'association.
+Peut devenir membre de l'association tout groupement suisse qui soutient les objectifs et les tâches de l'association. 
+ 
+L'admission des membres est décidée par l'Assemblée du Chaos. 
 
-L'admission des membres est décidé par l'assemblée du chaos.
+L'adhésion prend effet immédiatement, même si les cotisations n'ont pas encore été payées. 
 
-L'adhésion prend effet immédiatement, même si les cotisations ne sont pas payées.
+### 3.2 Fin de l'affiliation
 
-### 3.2 Annullation de l'adhésion
+La résiliation de l'adhésion peut être faite à tout moment avec un préavis de 23 jours. Les cotisations déjà dues ne sont pas remboursées.
 
-Le membres peuvent cesser l’adhésion toujours avec un préavis de 23 jours. Les cotisations déjà dues ne seront pas remboursées.
+Un arriéré de paiement de cinq mois est considéré comme une démission.
 
-Des arrérages des cotisations du cinq mois sont considérés comme une annulation de l'adhésion.
-
-L'assemblee du chaos se prononce sur l'exclusion des membres qui violent outrageusement les objectives de l'association. Les cotisations déjà dues ne seront pas remboursées.
+Si un membre enfreint grossièrement les buts de l'association, l'Assemblée du Chaos peut décider de l'expulser. Les cotisations déjà dues ne sont pas remboursées.
 
 ## 4 Finances
 
-L'association se finance avec les cotisations des membres aussi bien que des donations et des légats.
+L'association se finance par les cotisations des membres, des dons et des legs. 
 
-Responsable aux dettes de l’association est seulement la fortune de l’association même.
+Les engagements de l'association sont exclusivement garantis par les biens de celle-ci. 
 
 ## 5 Contributions
 
-La cotisation est calculée du nombre des hackers représentés. Elle est due en avance.
+La cotisation est calculée en fonction du nombre de hackers représentés. Elle est due d'avance. 
 
 ## 6 Organes
 
 Les organes de l'association sont:
 
-- l'assemblée du chaos (l’assemblée générale)
-- le comité (la direction)
-- le bureau de révision
+- l'assemblée du chaos
+- le comité
+- l'organe de révision
 
 ## 7 L'assemblée du chaos
 
-La période des comptes se situe entre Mai et Juin et l’assemblée du chaos se tient dans le premier trimestre de cet année comptable. Si la réunion «Chaos Singularity (CoSin)» devaient avoir lieu, elle aura lieu autant.
+L'exercise comptable est terminé entre Mai et Juin et l'Assemblée du Chaos aura lieu pendant le trimestre suivant la clôture des comptes. Si l'événement «Chaos Singularity (CoSin)» est organisé, elle a lieu pendant celui-ci.
 
-Une cinquième des membres ou le comité peuvent convoquer une assemblée du chaos extraordinaire. Le comité est tenu d'organiser l’assemblée.
+Une Assemblée du Chaos extraordinaire peut être convoquée par le comité ou par un cinquième des membres. L'organisation est sous la responsabilité du comité. 
 
-Chaque membre envoies deux délégués qui auront un vote chaqun.
+Chaque membre envoie deux délégués a une vote chaqun.
 
-L'invitation doit parvenir aux membres 42 jours à l'avance au moins. «L’appel à participer» au rassemblement «Chaos Singularity (CoSin)» est équivalente a l’invitation à l’assemblée du chaos.
+L'invitation doit parvenir aux membres au plus tard 42 jours avant l'Assemblée du Chaos; Le «Call for Participation (CfP)» à la "Chaos Singularity (CoSin)" est considéré comme une invitation à l'Assemblée du Chaos.
 
-FIXME L’assemblée du chaos peut définir des méthodes de vote électronique comme équivalent à l'assemblée elle-même. Le vote électronique restera ouvert pendant 23 jours au moins. /FIXME
+L'Assemblée du Chaos peut assimiler les procédures électroniques de prise de décision à l'assemblée physique. Les délégués ont au moins 23 jours pour voter.
 
-L'assemblée du chaos décide avec une simple majorité des votes exprimés:
+L'Assemblée du Chaos décide à la majorité simple des voix exprimées:
 
-- l’approbation des comptes et la décharche du comité
+- l’approbation des comptes et décharge du comité
 - l’élection du comité
 - l’approbation du budget
-- la fixation des cotisations
-- l’admission des nouveaux membres
-- l’élection des commissaires aux comptes du bureau de révision
+- la détermination de la cotisation
+- l’admission de nouveaux membres
+- l’élection des vérificateurs des comptes
 
-La réunion du chaos résout avec deux tiers des voix exprimés sur:
+La Réunion du Chaos décide à la majorité des deux tiers des voix exprimées: 
 
-- la modifications des statuts
+- les changements aux statuts
 - la destitution du comité
 - l’exclusion de membres
 - la dissolution de l'association
 
 ## 8 Le comité
 
-Le comité représente l'association externe et gère les activités en cours.
+Le comité représente l'association à l'extérieur et gère les affaires courantes. Il se compose d'au moins cinq personnes, qui font toutes partie d'un membre, mais pas nécessairement du même. Il se constitue lui-même.
+ 
 
-Il se compose au moins du cinq personnes, qui sont également membres du membres de l'association, pas forcemmont tous de la même. Le comitat se constitue soi-même.
+## 9 Organe de révision
 
-## 9 Bureau de révision
+L'organe de révision est composé d'au moins deux personnes. Ses membres ne sont pas dans le comité. L'organe de révision examine les comptes et rapporte à l'Assemblée du Chaos ordinaire.
 
-Le bureau de révision se compose d’au moins du deux commissaires aux comptes. Ils ne font pas partie du comité. Ils vérifient les comptes et font avis à l'assemblée ordinaire du chaos.
 
 ## 10 Dissolution de l'association
 
-La liquidation est réalisée par le comité. Les actifs de l'association vont à une institution aux objectives similaires.
+La liquidation est effectuée par le comité. Les actifs de l'association vont à une institution aux objectifs comparables.
+
