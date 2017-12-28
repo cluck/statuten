@@ -4,7 +4,7 @@ Statuts du CCC-CH du 29 décembre 2017 (corréspondent aux statuts en allemand d
 
 ## 1 Nom et siège de l'association
 
-L'association est une société selon les articles 60 et suivants du Code civil suisse et s'appelle „Chaos Computer Club Suisse.“ L'abréviation d'usage est CCC-CH.
+L'association est une société selon les articles 60 et suivants du Code civil suisse et s'appelle „Chaos Computer Club Suisse.“ Le sigle d'usage est CCC-CH.
 
 Le siège est à Berne.
 
@@ -22,7 +22,7 @@ L'association est neutre sur les plans politique et confessionnel.
 
 Peut devenir membre de l'association tout groupement suisse qui soutient les objectifs et les tâches de l'association. 
  
-L'admission des membres est décidée par l'Assemblée du Chaos. 
+L'admission des membres est décidée par l'assemblée du chaos. 
 
 L'adhésion prend effet immédiatement, même si les cotisations n'ont pas encore été payées. 
 
@@ -32,7 +32,7 @@ La résiliation de l'adhésion peut être faite à tout moment avec un préavis 
 
 Un arriéré de paiement de cinq mois est considéré comme une démission.
 
-Si un membre enfreint grossièrement les buts de l'association, l'Assemblée du Chaos peut décider de l'expulser. Les cotisations déjà dues ne sont pas remboursées.
+Si un membre enfreint grossièrement les buts de l'association, l'assemblée du chaos peut décider de l'expulser. Les cotisations déjà dues ne sont pas remboursées.
 
 ## 4 Finances
 
@@ -54,17 +54,17 @@ Les organes de l'association sont:
 
 ## 7 L'assemblée du chaos
 
-L'exercise comptable est terminé entre Mai et Juin et l'Assemblée du Chaos aura lieu pendant le trimestre suivant la clôture des comptes. Si l'événement «Chaos Singularity (CoSin)» est organisé, elle a lieu pendant celui-ci.
+L'exercise comptable est terminé entre Mai et Juin et l'assemblée du chaos aura lieu pendant le trimestre suivant la clôture des comptes. Si l'événement «Chaos Singularity (CoSin)» est organisé, elle a lieu pendant celui-ci.
 
-Une Assemblée du Chaos extraordinaire peut être convoquée par le comité ou par un cinquième des membres. L'organisation est sous la responsabilité du comité. 
+Une assemblée du chaos extraordinaire peut être convoquée par le comité ou par un cinquième des membres. L'organisation est sous la responsabilité du comité. 
 
 Chaque membre envoie deux délégués a une vote chaqun.
 
-L'invitation doit parvenir aux membres au plus tard 42 jours avant l'Assemblée du Chaos; Le «Call for Participation (CfP)» à la "Chaos Singularity (CoSin)" est considéré comme une invitation à l'Assemblée du Chaos.
+L'invitation doit parvenir aux membres au plus tard 42 jours avant l'assemblée du chaos; Le «Call for Participation (CfP)» à la "Chaos Singularity (CoSin)" est considéré comme une invitation à l'assemblée du chaos.
 
-L'Assemblée du Chaos peut assimiler les procédures électroniques de prise de décision à l'assemblée physique. Les délégués ont au moins 23 jours pour voter.
+L'assemblée du chaos peut assimiler les procédures électroniques de prise de décision à l'assemblée physique. Les délégués ont au moins 23 jours pour voter.
 
-L'Assemblée du Chaos décide à la majorité simple des voix exprimées:
+L'assemblée du chaos décide à la majorité simple des voix exprimées:
 
 - l’approbation des comptes et décharge du comité
 - l’élection du comité
@@ -73,7 +73,7 @@ L'Assemblée du Chaos décide à la majorité simple des voix exprimées:
 - l’admission de nouveaux membres
 - l’élection des vérificateurs des comptes
 
-La Réunion du Chaos décide à la majorité des deux tiers des voix exprimées: 
+La assemblée du chaos décide à la majorité des deux tiers des voix exprimées: 
 
 - les changements aux statuts
 - la destitution du comité
@@ -87,7 +87,7 @@ Le comité représente l'association à l'extérieur et gère les affaires coura
 
 ## 9 Organe de révision
 
-L'organe de révision est composé d'au moins deux personnes. Ses membres ne sont pas dans le comité. L'organe de révision examine les comptes et rapporte à l'Assemblée du Chaos ordinaire.
+L'organe de révision est composé d'au moins deux personnes. Ses membres ne sont pas dans le comité. L'organe de révision examine les comptes et rapporte à l'assemblée du chaos ordinaire.
 
 
 ## 10 Dissolution de l'association
