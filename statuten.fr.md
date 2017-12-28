@@ -1,6 +1,6 @@
 # Statuts
 
-Statuts du CCC-CH du 29 décembre 2017 (corréspondent aux statuts en allemand du 16 Septembre 2017).
+Statuts du CCC-CH du 29 décembre 2017 (corréspondent aux statuts en allemand du 16 septembre 2017).
 
 ## 1 Nom et siège de l'association
 
@@ -14,17 +14,17 @@ L'association favorise l'échange d'expériences entre les hackers en Suisse.
 
 Elle peut représenter leurs intérêts auprès du public et des instances politiques. De plus, elle peut promouvoir l'éducation technique et scientifique.
 
-L'association est neutre sur les plans politique et confessionnel. 
+L'association est neutre sur les plans politique et confessionnel.
 
 ## 3 Affiliation
 
 ### 3.1 Admission
 
-Peut devenir membre de l'association tout groupement suisse qui soutient les objectifs et les tâches de l'association. 
- 
-L'admission des membres est décidée par l'assemblée du chaos. 
+Peut devenir membre de l'association tout groupement suisse qui soutient les objectifs et les tâches de l'association.
 
-L'adhésion prend effet immédiatement, même si les cotisations n'ont pas encore été payées. 
+L'admission des membres est décidée par l'assemblée du chaos.
+
+L'adhésion prend effet immédiatement, même si les cotisations n'ont pas encore été payées.
 
 ### 3.2 Fin de l'affiliation
 
@@ -36,13 +36,13 @@ Si un membre enfreint grossièrement les buts de l'association, l'assemblée du 
 
 ## 4 Finances
 
-L'association se finance par les cotisations des membres, des dons et des legs. 
+L'association se finance par les cotisations des membres, des dons et des legs.
 
-Les engagements de l'association sont exclusivement garantis par les biens de celle-ci. 
+Les engagements de l'association sont exclusivement garantis par les biens de celle-ci.
 
 ## 5 Contributions
 
-La cotisation est calculée en fonction du nombre de hackers représentés. Elle est due d'avance. 
+La cotisation est calculée en fonction du nombre de hackers représentés. Elle est due d'avance.
 
 ## 6 Organes
 
@@ -56,7 +56,7 @@ Les organes de l'association sont:
 
 L'exercise comptable est terminé entre Mai et Juin et l'assemblée du chaos aura lieu pendant le trimestre suivant la clôture des comptes. Si l'événement «Chaos Singularity (CoSin)» est organisé, elle a lieu pendant celui-ci.
 
-Une assemblée du chaos extraordinaire peut être convoquée par le comité ou par un cinquième des membres. L'organisation est sous la responsabilité du comité. 
+Une assemblée du chaos extraordinaire peut être convoquée par le comité ou par un cinquième des membres. L'organisation est sous la responsabilité du comité.
 
 Chaque membre envoie deux délégués a une vote chaqun.
 
@@ -73,7 +73,7 @@ L'assemblée du chaos décide à la majorité simple des voix exprimées:
 - l’admission de nouveaux membres
 - l’élection des vérificateurs des comptes
 
-La assemblée du chaos décide à la majorité des deux tiers des voix exprimées: 
+L'assemblée du chaos décide à la majorité des deux tiers des voix exprimées:
 
 - les changements aux statuts
 - la destitution du comité
@@ -83,7 +83,7 @@ La assemblée du chaos décide à la majorité des deux tiers des voix exprimée
 ## 8 Le comité
 
 Le comité représente l'association à l'extérieur et gère les affaires courantes. Il se compose d'au moins cinq personnes, qui font toutes partie d'un membre, mais pas nécessairement du même. Il se constitue lui-même.
- 
+
 
 ## 9 Organe de révision
 
