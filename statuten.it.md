@@ -54,7 +54,7 @@ Gli organi dell’associazione sono:
 
 ## 7 L'assemblea del caos
 
-La chiusura dell'anno contabile cade tra maggio e giugno e la riunione del caos si tiene nel primo trimestre sequente la chiusura dei conti. Qualora si tenga il raduno «Chaos Singularity (CoSin)», essa si svolgerà nel contempo.
+L'esercizio contabile termina tra maggio e giugno e la riunione del caos si tiene nel trimestre sequente la chiusura dei conti. Qualora si tenga il raduno «Chaos Singularity (CoSin)», essa si svolgerà nel contempo.
 
 Un quinto dei soci o il comitato possono indire un'assemblea del caos straordinaria. Il comitato è tenuto ad organizzarla.
 
