@@ -4,7 +4,7 @@ Statuti del CCC-CH del 29 dicembre 2017 (corrispondenti ai statuti in tedesco de
 
 ## 1 Nome e sede dell'associazione
 
-L’associazione è costituita a norma dell’art. 60 e seguenti del Codice civile svizzero e porta il nome „Computer Club Svizzera.“ La sigla da usare è CCC-CH.
+L’associazione è costituita a norma dell’art. 60 e seguenti del Codice civile svizzero e porta il nome „Caos Computer Club Svizzera.“ La sigla da usare è CCC-CH.
 
 La sede è a Berna.
 
@@ -32,9 +32,9 @@ I soci possono cessare l'affiliazione in ogni momento con preavviso di 23 giorni
 
 É presunta la dimissione con l'ammontare di cinque mesi di contributi sociali arretrati.
 
-L'assemblea sociale delibera sull'esclusione di soci che violano in modo oltraggioso lo scopo dell’associazione. Contributi già dovuti non vengono rimborsati.
+L'assemblea del caos delibera sull'esclusione di soci che violano in modo grave lo scopo dell’associazione. Contributi già dovuti non vengono rimborsati.
 
-## 4 Mezzi
+## 4 Finanziamento
 
 L’associazione si finanzia con i contributi sociali, eventuali donazioni e legati.
 
@@ -71,7 +71,7 @@ L'assemblea del caos decide con maggioranza semplice dei voti espressi su:
 - l'approvazione del preventivo
 - i contributi sociali
 - l'ammissione di nuovi soci
-- l'organo di revisione
+- l'elezione dell'organo di revisione
  
 L'assemblea del caos decide con maggioranza di due terzi dei voti espressi su:
 
