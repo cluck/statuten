@@ -1,6 +1,6 @@
 # Statuts
 
-Statuts du CCC-CH du 29 décembre 2017 (corréspondent aux statuts en allemand du 16 septembre 2017).
+Statuts du CCC-CH du 29 décembre 2017 (correspondent aux statuts en allemand du 16 septembre 2017).
 
 ## 1 Nom et siège de l'association
 
@@ -54,11 +54,11 @@ Les organes de l'association sont:
 
 ## 7 L'assemblée du chaos
 
-L'exercise comptable est terminé entre mai et juin et l'assemblée du chaos aura lieu pendant le trimestre suivant la clôture des comptes. Si l'événement «Chaos Singularity (CoSin)» est organisé, elle a lieu pendant celui-ci.
+L'exercice comptable est terminé entre mai et juin et l'assemblée du chaos aura lieu pendant le trimestre suivant la clôture des comptes. Si l'événement «Chaos Singularity (CoSin)» est organisé, elle a lieu pendant celui-ci.
 
 Une assemblée du chaos extraordinaire peut être convoquée par le comité ou par un cinquième des membres. L'organisation est sous la responsabilité du comité.
 
-Chaque membre envoie deux délégués a une vote chaqun.
+Chaque membre envoie deux délégués qui possèdent chacun une voix.
 
 L'invitation doit parvenir aux membres au plus tard 42 jours avant l'assemblée du chaos; Le «Call for Participation (CfP)» à la "Chaos Singularity (CoSin)" est considéré comme une invitation à l'assemblée du chaos.
 
