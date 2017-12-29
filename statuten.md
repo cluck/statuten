@@ -111,7 +111,3 @@ ordentlichen Chaosversammlung.
 Die Liquidation erfolgt durch den Vorstand. Das Vereinsvermögen fällt an eine
 Institution mit vergleichbaren Zielen.
 
-## Übergangsbestimmungen
-
-Das Geschäftsjahr 2016 wird bis Mai 2017 verlängert.
-
